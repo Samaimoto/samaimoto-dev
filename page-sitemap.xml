@@ -4,24 +4,30 @@
 		<loc>/</loc>
 	</url>
 	<url>
-		<loc>/service/</loc>
-		<lastmod>2025-10-04T16:23:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/Samaipata-Moto-Club-136-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/prices-requirements/</loc>
-		<lastmod>2025-10-04T16:30:11+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/Samaipata-Moto-Club-208-edited-2-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/contact-us-samaimoto-motorbike-rental/</loc>
 		<lastmod>2025-10-04T19:48:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/09/Samaipata-Moto-Club-87-edited-2-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/prices-requirements/</loc>
+		<lastmod>2025-10-05T22:31:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Samaipata-Moto-Club-208-edited-2-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Samaipata-Moto-Club-282-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/motorbike-rental-samaipata/</loc>
+		<lastmod>2025-10-05T23:00:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Samaipata-Moto-Club-136-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Samaipata-Moto-Club-136-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
