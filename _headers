@@ -8,7 +8,7 @@
   Cache-Control: no-store
 
   # 🛡 Content Security Policy (funktional + sicher)
-  Content-Security-Policy: default-src 'self'; script-src 'self' https://translate.google.com https://www.gstatic.com https://www.googletagmanager.com https://www.google-analytics.com 'unsafe-inline'; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; connect-src 'self' https://translate.googleapis.com https://api.whatsapp.com https://www.google-analytics.com; img-src 'self' https://translate.google.com https://www.google-analytics.com data:; frame-src https://translate.google.com https://web.whatsapp.com https://www.google.com; font-src 'self' https://fonts.gstatic.com; object-src 'none'; base-uri 'self'; form-action 'self';
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://translate.google.com https://www.gstatic.com 'unsafe-inline'; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; connect-src 'self' https://translate.googleapis.com; img-src 'self' https://translate.google.com data:; frame-src https://translate.google.com; font-src 'self' https://fonts.gstatic.com; object-src 'none'; base-uri 'self'; form-action 'self';
   
   # 🌐 Cross-Origin Isolation
   Cross-Origin-Embedder-Policy: require-corp
