@@ -6,11 +6,3 @@
   Referrer-Policy: no-referrer
   Permissions-Policy: geolocation=(), microphone=(), camera=()
   Cache-Control: no-store
-
-  # 🛡 Content Security Policy (funktional + sicher)
-  Content-Security-Policy: default-src 'self'; script-src 'self' https://translate.google.com https://www.gstatic.com 'unsafe-inline'; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; connect-src 'self' https://translate.googleapis.com; img-src 'self' https://translate.google.com data:; frame-src https://translate.google.com; font-src 'self' https://fonts.gstatic.com; object-src 'none'; base-uri 'self'; form-action 'self';
-  
-  # 🌐 Cross-Origin Isolation
-  Cross-Origin-Embedder-Policy: unsafe-none
-  Cross-Origin-Opener-Policy: unsafe-none
-  Cross-Origin-Resource-Policy: cross-origin
